@@ -1,0 +1,87 @@
+{
+  "appTitle": "crwdns27738:0crwdne27738:0",
+  "login": {
+    "title": "crwdns27740:0crwdne27740:0",
+    "email": "crwdns27742:0crwdne27742:0",
+    "password": "crwdns27744:0crwdne27744:0",
+    "logIn": "crwdns27746:0crwdne27746:0",
+    "forgotPasswordHTML": "crwdns27748:0{{ forgotPasswordLink }}crwdnd27748:0{{ email }}crwdne27748:0",
+    "errors": {
+      "emailRequired": "crwdns27750:0crwdne27750:0",
+      "passwordRequired": "crwdns27752:0crwdne27752:0",
+      "invalidEmailOrPassword": "crwdns27754:0crwdne27754:0",
+      "sessionExpired": "crwdns27756:0crwdne27756:0"
+    },
+    "forgotPasswordEmail": {
+      "subject": "crwdns27758:0crwdne27758:0",
+      "body": "crwdns27760:0crwdne27760:0"
+    }
+  },
+  "dashboard": {
+    "changeLocation": "crwdns27762:0crwdne27762:0",
+    "today": "crwdns27764:0crwdne27764:0",
+    "briefEncounter": {
+      "title": "crwdns27766:0crwdne27766:0",
+      "subtitle": "crwdns27768:0{{ briefEncountersMin }}crwdnd27768:0{{ briefEncountersMax }}crwdne27768:0"
+    },
+    "extendedEncounter": {
+      "title": "crwdns27770:0crwdne27770:0",
+      "subtitle": "crwdns27772:0{{ briefEncountersMax }}crwdne27772:0"
+    },
+    "encounter": {
+      "total": "crwdns27774:0crwdne27774:0",
+      "users": "crwdns27776:0crwdne27776:0",
+      "activeUsersPercentage": "crwdns27778:0crwdne27778:0"
+    },
+    "status": {
+      "title": "crwdns27780:0crwdne27780:0",
+      "subtitle": "crwdns27782:0crwdne27782:0",
+      "category": {
+        "excellent": "crwdns27784:0crwdne27784:0",
+        "good": "crwdns27786:0crwdne27786:0",
+        "fair": "crwdns27788:0crwdne27788:0",
+        "poor": "crwdns27790:0crwdne27790:0",
+        "veryPoor": "crwdns27792:0crwdne27792:0"
+      }
+    },
+    "activeUsers": {
+      "title": "crwdns27794:0crwdne27794:0",
+      "subtitle": "crwdns27796:0crwdne27796:0"
+    },
+    "history": {
+      "today": "crwdns27798:0crwdne27798:0",
+      "title": "crwdns27800:0crwdne27800:0",
+      "titleHint": "crwdns27802:0{{ days }}crwdne27802:0",
+      "date": "crwdns27804:0crwdne27804:0",
+      "status": "crwdns27806:0crwdne27806:0",
+      "briefEncounters": "crwdns27808:0crwdne27808:0",
+      "extendedEncounters": "crwdns27810:0crwdne27810:0",
+      "total": "crwdns27812:0crwdne27812:0",
+      "users": "crwdns27814:0crwdne27814:0",
+      "usersPercentage": "crwdns27816:0crwdne27816:0"
+    }
+  },
+  "changeOffice": {
+    "title": "crwdns27818:0crwdne27818:0"
+  },
+  "settings": {
+    "closeEncounterDistanceLabel": "crwdns27820:0crwdne27820:0",
+    "closeEncounterDistanceHint": "crwdns27822:0crwdne27822:0",
+    "closeEncounterDistanceAppImperialHint": "crwdns27824:0{{ distance }}crwdne27824:0",
+    "closeEncounterDistanceAppMetricHint": "crwdns27826:0{{ distance }}crwdne27826:0",
+    "briefEncounterMinimumDurationLabel": "crwdns27828:0crwdne27828:0",
+    "briefEncounterMinimumDurationHint": "crwdns27830:0crwdne27830:0",
+    "briefEncounterMaximumDurationLabel": "crwdns27832:0crwdne27832:0",
+    "briefEncounterMaximumDurationHint": "crwdns27834:0crwdne27834:0",
+    "historyExpirationLabel": "crwdns27836:0crwdne27836:0",
+    "historyExpirationHint": "crwdns27838:0crwdne27838:0",
+    "timeZoneOffsetLabel": "crwdns27840:0crwdne27840:0",
+    "appVersion": "crwdns27842:0{{ version }}crwdne27842:0",
+    "saveButtonStates": {
+      "noChanges": "crwdns27844:0crwdne27844:0",
+      "save": "crwdns27846:0crwdne27846:0",
+      "saving": "crwdns27848:0crwdne27848:0",
+      "saved": "crwdns27850:0crwdne27850:0"
+    }
+  }
+}

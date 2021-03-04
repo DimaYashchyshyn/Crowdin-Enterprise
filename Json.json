@@ -1,0 +1,87 @@
+{
+  "appTitle": "Safe Distancing - Office Dashboard",
+  "login": {
+    "title": "Log in to your account",
+    "email": "Email:",
+    "password": "Password:",
+    "logIn": "Log in",
+    "forgotPasswordHTML": "Forgot your password? Email <a href=\"{{ forgotPasswordLink }}\">{{ email }}</a> to request a reset.",
+    "errors": {
+      "emailRequired": "Email is required",
+      "passwordRequired": "Password is required.",
+      "invalidEmailOrPassword": "Invalid email/password. Please try again.",
+      "sessionExpired": "Session expired. Please log in again."
+    },
+    "forgotPasswordEmail": {
+      "subject": "Password Reset request",
+      "body": "Please reset my password. The email address I use to log in is: <enter email address here>"
+    }
+  },
+  "dashboard": {
+    "changeLocation": "Change location",
+    "today": "(Today)",
+    "briefEncounter": {
+      "title": "Brief Encounters",
+      "subtitle": "More than {{ briefEncountersMin }} but less than {{ briefEncountersMax }}."
+    },
+    "extendedEncounter": {
+      "title": "Extended Encounters",
+      "subtitle": "More than {{ briefEncountersMax }}."
+    },
+    "encounter": {
+      "total": "Total encounters",
+      "users": "Users",
+      "activeUsersPercentage": "of active users"
+    },
+    "status": {
+      "title": "Safe Distancing Status",
+      "subtitle": "Based on number and duration of encounters between active users.",
+      "category": {
+        "excellent": "Excellent",
+        "good": "Good",
+        "fair": "Fair",
+        "poor": "Poor",
+        "veryPoor": "Very Poor"
+      }
+    },
+    "activeUsers": {
+      "title": "Active Users",
+      "subtitle": "Unique bands connecting at this location."
+    },
+    "history": {
+      "today": "TODAY",
+      "title": "History",
+      "titleHint": "(Up to Last {{ days }} Days)",
+      "date": "Date",
+      "status": "Status",
+      "briefEncounters": "Brief Encounters",
+      "extendedEncounters": "Extended Encounters",
+      "total": "Total",
+      "users": "Users",
+      "usersPercentage": "% Users"
+    }
+  },
+  "changeOffice": {
+    "title": "Choose a Location"
+  },
+  "settings": {
+    "closeEncounterDistanceLabel": "Distance to consider Close Encounter",
+    "closeEncounterDistanceHint": "In meters",
+    "closeEncounterDistanceAppImperialHint": "“About {{ distance }} feet or closer” will be shown to app users with phones using Imperial measurement.",
+    "closeEncounterDistanceAppMetricHint": "“About {{ distance }} meters or closer” will be shown to app users with phones using Metric measurement.",
+    "briefEncounterMinimumDurationLabel": "Minimum duration for brief encounters",
+    "briefEncounterMinimumDurationHint": "In seconds",
+    "briefEncounterMaximumDurationLabel": "Duration division between \"Brief Encounter\" and \"Extended Encounter\"",
+    "briefEncounterMaximumDurationHint": "In minutes",
+    "historyExpirationLabel": "Number of days of data to show in app and dashboard",
+    "historyExpirationHint": "In days",
+    "timeZoneOffsetLabel": "Office time zone",
+    "appVersion": "Version: {{ version }}",
+    "saveButtonStates": {
+      "noChanges": "No changes",
+      "save": "Save",
+      "saving": "Saving...",
+      "saved": "Saved"
+    }
+  }
+}

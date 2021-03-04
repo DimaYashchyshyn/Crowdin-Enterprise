@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+
+    <data name="Help" xml:space="preserve">
+        <value>Help</value>
+    </data>
+    <data name="SafetyBand" xml:space="preserve">
+        <value>Safety Band</value>
+    </data>
+    <data name="CloseEncounters" xml:space="preserve">
+        <value>Close Encounters</value>
+    </data>
+    <data name="NotPairedState" xml:space="preserve">
+        <value>Not paired</value>
+    </data>
+    <data name="DisconnectedState" xml:space="preserve">
+        <value>Not connected</value>
+    </data>
+    <data name="ConnectingState" xml:space="preserve">
+        <value>Connecting</value>
+    </data>
+    <data name="ConnectedState" xml:space="preserve">
+        <value>Connected</value>
+    </data>
+    <data name="BandStatus" xml:space="preserve">
+        <value>Band Status</value>
+    </data>
+     <data name="FindBandInstruction" xml:space="preserve">
+        <value>Turn on your band and place it
+        close to your smartphone to pair.</value>
+    </data>
+    <data name="Pairing" xml:space="preserve">
+        <value>Pairing...</value>
+    </data>
+    <data name="Battery" xml:space="preserve">
+        <value>Battery</value>
+    </data>
+    <data name="NotAvailable" xml:space="preserve">
+        <value>Not available</value>
+    </data>
+    <data name="PairSafetyBand" xml:space="preserve">
+        <value>Pair Safety Band</value>
+    </data>
+    <data name="UnpairSafetyBand" xml:space="preserve">
+        <value>Unpair Safety Band</value>
+    </data>
+    <data name="Scanning" xml:space="preserve">
+        <value>Scanning</value>
+    </data>
+    <data name="AdvancingAt" xml:space="preserve">
+        <value>Advancing at </value>
+    </data>
+    <data name="CloseEncountersNoData" xml:space="preserve">
+        <value>Not available, please connect your Safety Band.</value>
+    </data>
+    <data name="MidTimeFormat" xml:space="preserve">
+        <value>{0} minutes</value>
+    </data>
+    <data name="CloseEncountersDistance" xml:space="preserve">
+        <value>About {0} {1} or closer.</value>
+    </data>
+    <data name="CloseEncountersDistanceFeet" xml:space="preserve">
+        <value>feet</value>
+    </data>
+    <data name="CloseEncountersDistanceFoot" xml:space="preserve">
+        <value>foot</value>
+    </data>
+    <data name="CloseEncountersDistanceMeter" xml:space="preserve">
+        <value>meter</value>
+    </data>
+    <data name="CloseEncountersDistanceMeters" xml:space="preserve">
+        <value>meters</value>
+    </data>
+    <data name="PersonNearby" xml:space="preserve">
+        <value>Person nearby</value>
+    </data>
+    <data name="PeopleNearby" xml:space="preserve">
+        <value>People nearby</value>
+    </data>
+    <data name="BuzzAndBlink" xml:space="preserve">
+        <value>Buzz and Blink</value>
+    </data>
+    <data name="PairNewBand" xml:space="preserve">
+        <value>Pair New Band</value>
+    </data>
+    <data name="UnpairAndEraseAllData" xml:space="preserve">
+        <value>Unpair and Erase All Data</value>
+    </data>
+    <data name="BandIdFormat" xml:space="preserve">
+        <value>Band ID: {0}</value>
+    </data>
+    <data name="BriefEncounters" xml:space="preserve">
+        <value>Brief Encounters</value>
+    </data>
+    <data name="LessThanXMinutes" xml:space="preserve">
+        <value>Less than {0} minutes.</value>
+    </data>
+    <data name="ExtendedEncounters" xml:space="preserve">
+        <value>Extended Encounters</value>
+    </data>
+    <data name="MoreThanXMinutes" xml:space="preserve">
+        <value>More than {0} minutes.</value>
+    </data>
+    <data name="Today" xml:space="preserve">
+        <value>Today</value>
+    </data>
+    <data name="History" xml:space="preserve">
+        <value>History</value>
+    </data>
+    <data name="SafeDistancingStatus" xml:space="preserve">
+        <value>Safe Distancing Status</value>
+    </data>
+    <data name="SafeDistancingStatusExcellentSubtitle" xml:space="preserve">
+        <value>You're doing well, but keep your distance.</value>
+    </data>
+    <data name="SafeDistancingStatusGoodSubtitle" xml:space="preserve">
+        <value>You're doing OK, but need to try a little harder.</value>
+    </data>
+    <data name="SafeDistancingStatusFairSubtitle" xml:space="preserve">
+        <value>Don't stand... don't stand so close to me.</value>
+    </data>
+    <data name="SafeDistancingStatusVeryPoorSubtitle" xml:space="preserve">
+        <value>You need to work much harder at safe distancing.</value>
+    </data>
+    <data name="SafeDistancingStatusPoorSubtitle" xml:space="preserve">
+        <value>You need to work harder at safe distancing.</value>
+    </data>
+    <data name="Excellent" xml:space="preserve">
+        <value>Excellent</value>
+    </data>
+    <data name="Good" xml:space="preserve">
+        <value>Good</value>
+    </data>
+    <data name="Fair" xml:space="preserve">
+        <value>Fair</value>
+    </data>
+    <data name="VeryPoor" xml:space="preserve">
+        <value>Very Poor</value>
+    </data>
+    <data name="Poor" xml:space="preserve">
+        <value>Poor</value>
+    </data>
+    <data name="SilenceAlertsDescription" xml:space="preserve">
+        <value>Disable alerts for the current encounter.</value>
+    </data>
+    <data name="AppHelp" xml:space="preserve">
+        <value>App Help</value>
+    </data>
+    <data name="BandHelp" xml:space="preserve">
+        <value>Band Help</value>
+    </data>
+    <data name="PrivacyHelp" xml:space="preserve">
+        <value>Privacy Help</value>
+    </data>
+    <data name="BrowseAllFAQs" xml:space="preserve">
+        <value>Browse all FAQs</value>
+    </data>
+    <data name="GetSupport" xml:space="preserve">
+        <value>Get Support</value>
+    </data>
+    <data name="TroubleshootingTips" xml:space="preserve">
+        <value>Troubleshooting Tips</value>
+    </data>
+    <data name="SendFeedback" xml:space="preserve">
+        <value>Send Feedback</value>
+    </data>
+    <data name="RequestFeature" xml:space="preserve">
+        <value>Request a Feature</value>
+    </data>
+    <data name="AppVersion" xml:space="preserve">
+        <value>App version: v{0} ({1})</value>
+    </data>
+    <data name="Date" xml:space="preserve">
+        <value>Date</value>
+    </data>
+    <data name="Encounters" xml:space="preserve">
+        <value>Encounters:</value>
+    </data>
+    <data name="Brief" xml:space="preserve">
+        <value>Brief</value>
+    </data>
+    <data name="Extended" xml:space="preserve">
+        <value>Extended</value>
+    </data>
+    <data name="HistoryDaysInfo" xml:space="preserve">
+        <value>Up to last {0} days</value>
+    </data>
+    <data name="EndOfHistory" xml:space="preserve">
+        <value>End of history</value>
+    </data>
+    <data name="NoDataAvailable" xml:space="preserve">
+        <value>No data available</value>
+    </data>
+    <data name="NewCloseEncounterNotificationTitleSingular" xml:space="preserve">
+        <value>Close Encounter Detected</value>
+    </data>
+    <data name="NewCloseEncounterNotificationTitlePlural" xml:space="preserve">
+        <value>Close Encounters Detected</value>
+    </data>
+    <data name="NewCloseEncounterNotificationMessageSingular" xml:space="preserve">
+        <value>1 Close Encounter is in progress. Remember to practice Safe Distancing.</value>
+    </data>
+    <data name="NewCloseEncounterNotificationMessagePlural" xml:space="preserve">
+        <value>{0} Close Encounters are in progress. Remember to practice Safe Distancing.</value>
+    </data>
+    <data name="ZendeskConnectionRequiredMessageTitle" xml:space="preserve">
+        <value>Connection Required</value>
+    </data>
+    <data name="ZendeskConnectionRequiredMessage" xml:space="preserve">
+        <value>You must have an Internet connection to view help articles. Please check your connection then try again.</value>
+    </data>
+    <data name="OK" xml:space="preserve">
+        <value>OK</value>
+    </data>
+    <data name="LearnMore" xml:space="preserve">
+        <value>Learn More</value>
+    </data>
+    <data name="SafetyBandSyncAlertTitle" xml:space="preserve">
+        <value>Safety Band Sync</value>
+    </data>
+    <data name="SafetyBandSyncAlertDescription" xml:space="preserve">
+        <value>Please re-launch Safe Distancing to resume connection with Safety Band.</value>
+    </data>
+    <data name="SafetyBandInactivityAlertDescription" xml:space="preserve">
+        <value>Safe Distancing has not synced with your Safety Band in a while. Please launch the app to reconnect.</value>
+    </data>
+    <data name="AlreadyPairedBandMessage" xml:space="preserve">
+        <value>Your app will be disconnected from your current band, and then you can connect the app to a new band. Your history will not be erased from the app.</value>
+    </data>
+    <data name="Cancel" xml:space="preserve">
+        <value>Cancel</value>
+    </data>
+    <data name="PairNew" xml:space="preserve">
+        <value>Pair New</value>
+    </data>
+    <data name="AndroidBluetoothPersistentTitle" xml:space="preserve">
+        <value>Safety Band {0}</value>
+    </data>
+    <data name="AndroidBluetoothPersistentBody" xml:space="preserve">
+        <value>Safe Distancing attempts to maintain a connection with your Safety Band to record Close Encounters.</value>
+    </data>
+    <data name="FindMyBand" xml:space="preserve">
+        <value>Find My Band</value>
+    </data>
+    <data name="FindBandAlertMessage" xml:space="preserve">
+        <value>Your Safety Band will buzz and blink for 10 seconds to help you locate it.</value>
+    </data>
+    <data name="FindBandAlertStopButton" xml:space="preserve">
+        <value>Stop</value>
+    </data>
+    <data name="NoConnectionTitle" xml:space="preserve">
+        <value>No Connection</value>
+    </data>
+    <data name="NoConnectionDescription" xml:space="preserve">
+        <value>Unable to reach the server. Please check your connection and try again.</value>
+    </data>
+    <data name="Retry" xml:space="preserve">
+        <value>Retry</value>
+    </data>
+    <data name="Error400Title" xml:space="preserve">
+        <value>Error</value>
+    </data>
+     <data name="Error400Description" xml:space="preserve">
+        <value>Something went wrong. Please try again. If the issue continues, please go to Help > Get Support > Send Feedback > Report a bug</value>
+    </data>
+    <data name="Error500Title" xml:space="preserve">
+        <value>Server Error</value>
+    </data>
+     <data name="Error500Description" xml:space="preserve">
+        <value>Something went wrong on our end. Things should be back to normal soon, so please try again later. If you continue experiencing an issue, please go to Help > Get Support > Send Feedback > Report a bug</value>
+    </data>
+    <data name="TimesoutTitle" xml:space="preserve">
+        <value>Connection Timeout</value>
+    </data>
+     <data name="TimesoutDescription" xml:space="preserve">
+        <value>Unable to reach the server. Please check your connection and try again.</value>
+    </data>
+    <data name="ReportABug" xml:space="preserve">
+        <value>Report a Bug</value>
+    </data>
+    <data name="Oops" xml:space="preserve">
+        <value>Oops!</value>
+    </data>
+    <data name="RegisterBandApiErrorMessage" xml:space="preserve">
+        <value>Something went wrong while registering your Safety Band. Please try again. If the issue continues, please contact your company's support.</value>
+    </data>
+    <data name="RegisterBandApiValidationErrorMessage" xml:space="preserve">
+        <value>An error occurred while registering your Safety Band. Please contact your company's support.</value>
+    </data>
+    <data name="AppClosedNotificationMessage" xml:space="preserve">
+        <value>Safe Distancing is disabled and not running. Open the Safe Distancing app to maintain connection with your Safety Band.</value>
+    </data>
+    <data name="AppClosedNotificationTitle" xml:space="preserve">
+        <value>Safe Distancing</value>
+    </data>
+    <data name="Description_CloseEncounters_Title" xml:space="preserve">
+        <value>Close Encounters</value>
+    </data>
+    <data name="Description_CloseEncounters_Message" xml:space="preserve">
+        <value>A Brief Encounter occurs when another person wearing a Safety Band comes within {0} of you, for more than {1} seconds.
+
+A high-risk Extended Encounter occurs when your exposure lasts longer than {2} minutes.</value>
+    </data>
+    <data name="Description_CloseEncounters_InfoSectionId" xml:space="preserve">
+        <value>360053496634</value>
+    </data>
+    <data name="Description_Status_Title" xml:space="preserve">
+        <value>Safe Distancing Status</value>
+    </data>
+    <data name="Description_Status_Message" xml:space="preserve">
+        <value>Your daily Safe Distancing Status is calculated based on the cumulative total and duration of Close Encounters throughout the day.</value>
+    </data>
+    <data name="Description_Status_InfoSectionId" xml:space="preserve">
+        <value>360055285053</value>
+    </data>
+    <data name="Description_DailyEncounters_Title" xml:space="preserve">
+        <value>Daily Encounters</value>
+    </data>
+    <data name="Description_DailyEncounters_Message" xml:space="preserve">
+        <value>A "Brief Encounter" is less than {0} minutes.
+
+An "Extended Encounter" is more than {0} minutes.
+
+Extended Encounters do not include Brief Encounters.</value>
+    </data>
+    <data name="Description_DailyEncounters_InfoSectionId" xml:space="preserve">
+        <value>360055284573</value>
+    </data>
+    <data name="AreYouInACaveTitle" xml:space="preserve">
+        <value>Are you in a cave?</value>
+    </data>
+    <data name="AreYouInACaveDetails" xml:space="preserve">
+        <value>We have been unable to reach the server for more than 24 hours. Please check your connection.</value>
+    </data>
+    <data name="BandPaired" xml:space="preserve">
+        <value>Band Paired</value>
+    </data>
+</root>
